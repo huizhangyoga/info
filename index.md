@@ -3,5 +3,5 @@
 
 # Email
 
-hui@huizhang.yoga
+<a href="mailto:hui@huizhang.yoga">hui@huizhang.yoga</a>
 
